@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['0','other'],p:[['0',23],['colors',16],['gaps',4],['mixer',22],['scribe',21],['trays',8]]});
